@@ -1,0 +1,18 @@
+
+body{
+padding: 60px;
+margin: 60px;
+}
+h1{
+  color: teal;
+}
+img{
+  max-width: 350px;
+  max-height: 350px;
+  display: inline;
+  float: left;
+  padding: 10px;
+}
+button{
+  background-color: teal;
+}
