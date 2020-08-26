@@ -1,10 +1,24 @@
 
+.background{
+  background-color: teal;
+}
 body{
 padding: 60px;
-margin: 60px;
+margin-top: auto;
 }
-h1{
-  color: teal;
+h2{
+  color:teal;
+}
+header{
+  position: absolute;
+  width: 100%;
+  top:0;
+  left:0;
+}
+article{
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
 }
 img{
   max-width: 350px;
@@ -31,8 +45,8 @@ img{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: teal;
-  color: white;
+  background-color: white;
+  color: teal;
   text-align: center;
   padding: 20px;
 }
