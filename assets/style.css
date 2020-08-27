@@ -48,6 +48,15 @@ img{
   background-color: white;
   color: teal;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
+}
+.c{
+  opacity: 20%;
+  text-align: center;
+}
+.fa{
+  float: right;
+  padding: 5px;
+  color: teal;
 }
 
